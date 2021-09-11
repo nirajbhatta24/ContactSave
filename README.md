@@ -1,5 +1,5 @@
 # ContactSave
-This is a simple desktop application made by using java. Here in this apllication we can do login, register and save  personal information.
+This is a simple desktop application using java. Here in this apllication we can do login, register and save  personal information.
 Also we can perform operations like uodate and delete. We can delete and update inserted informations. All the codes are present in src/LoginPro.
 All the information or data are stored in mysql workbench.
 Here are some screenshots of developed system. 
